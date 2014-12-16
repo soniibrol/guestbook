@@ -1,0 +1,21 @@
+body{
+	background-color: #fff;
+}
+
+#message_list{
+	height: 300px;
+	overflow: scroll;
+}
+
+.message_list_member{
+	padding: 5px;
+}
+
+.message_list_member_time{
+	font-size: 12px;
+	color: #bbb;
+}
+
+.message_list_member:hover{
+	background-color: #eee;
+}
